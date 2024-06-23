@@ -2,6 +2,8 @@
 
 * [计算布尔表达式以在 C# 中做出决策](./01-csharp-evaluate-boolean-expressions/)
 * [在 C# 中使用代码块控制变量范围和逻辑](./02-sharp-code-blocks/)
+* [使用 C# 中的 switch-case 结构将代码流分支](./03-csharp-switch-case/)
+* [使用 C# 中的 for 语句循环访问代码块](./04-csharp-for/)
 
 
 ## Ref
