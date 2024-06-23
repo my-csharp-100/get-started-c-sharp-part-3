@@ -5,6 +5,7 @@
 * [使用 C# 中的 switch-case 结构将代码流分支](./03-csharp-switch-case/)
 * [使用 C# 中的 for 语句循环访问代码块](./04-csharp-for/)
 * [使用 C# 中的 do-while 和 while 语句在代码中添加循环逻辑](./05-csharp-do-while/)
+* [挑战项目 - 使用 C# 开发分支和循环结构](/06-challenge-project-develop-branching-looping-structures-c-sharp/)
 
 
 ## Ref
